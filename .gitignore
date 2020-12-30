@@ -1,0 +1,55 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Folders
+__pycache__/
+.idea/
+.ipynb_checkpoints/
+.vscode/
+data/
+runs/
+runs_adv_loss/
+runs_cn/
+runs_new/
+runs_res/
+runs_test/
+scripts/
+scripts_cn/
+scripts_res/
+experiments/
+oops_dataset/
+
+# Files
+validate-trained-models_video.py
+README_old.md
+LICENSE
